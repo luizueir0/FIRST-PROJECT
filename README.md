@@ -3,4 +3,4 @@ Apresentação primeira aula | Typescript
 
 ESTA É UMA MODIFICAÇÃO ONDE CONSTA NA ORIGINAL
 
-não confie nas mentiras dele
+você sabe da verdade, siga a verdade ade
